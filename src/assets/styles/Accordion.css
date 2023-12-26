@@ -1,0 +1,22 @@
+.container-acc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.content-acc{
+    color: rgb(72, 52, 75);
+    flex-direction: column;
+    display: block;
+    position: relative;
+    gap: 40px;
+
+    font-family: 'WorkSans-Regular';
+}
+
+h4{
+    font-family: 'WorkSans-Regular';
+    font-size:1.3em;
+    color: rgb(70, 38, 102);
+}

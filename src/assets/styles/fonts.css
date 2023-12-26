@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'WorkSans-SemiBold';
+    src: local('WorkSans-SemiBold'), url('./fonts/WorkSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Regular';
+    src: local('WorkSans-Regular'), url('./fonts/WorkSans-Regular.ttf') format('truetype');
+}
