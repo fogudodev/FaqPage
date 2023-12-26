@@ -34,7 +34,7 @@
 @media screen and (min-width: 992px) {
     .box{
         width: 500px;
-        height: 450px;
+        height: auto;
         top: 50%;
     }
   }
